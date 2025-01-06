@@ -8,7 +8,7 @@ The dashboard provides insights into coffee sales trends, customer preferences, 
 #### Key Features
 
 **Data Integration:**
-Combined columns from multiple CSV files using `**XLOOKUP**`, `INDEX-MATCH`, and nested functions to unify the dataset into a single workbook for analysis.
+Combined columns from multiple CSV files using **`XLOOKUP`**, `INDEX-MATCH`, and nested functions to unify the dataset into a single workbook for analysis.
 
 **Data Analysis:**
 Applied nested IF and IFS functions for conditional logic.
@@ -20,18 +20,22 @@ Designed bar charts for sales by country and top customers.
 Interactive slicers for filtering by roast type, size, loyalty card, and date range.
 
 **Skills Utilized**:
+
 Advanced Excel Techniques: XLOOKUP, INDEX-MATCH, nested IF/IFS.
 Data Aggregation: SUM, AVERAGE, COUNT functions.
 Visualization: Charts, graphs, and slicers for interactive filtering.
 Data Wrangling: Combining data from multiple sources.
 
 **How to Use**
+
 - Clone this repository to your local machine.
 - Open the Excel file in the repository.
 - Use the slicers and filters to interact with the dashboard.
 
 **Files Included**
+
 Orders: Contains details of coffee orders.
+
 Customers: Customer data.
 Products: Information on coffee products.
 Excel Workbook: Integrated and visualized data.
