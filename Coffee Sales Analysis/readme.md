@@ -34,10 +34,10 @@ Interactive slicers for filtering by roast type, size, loyalty card, and date ra
 
 **Files Included**
 
-![image](https://github.com/user-attachments/assets/fa52dcd5-e260-49a5-a1e8-736dac2eb546)
-
-
 - Orders: Contains details of coffee orders.
 - Customers: Customer data.
 - Products: Information on coffee products.
 - Excel Workbook: Integrated and visualized data.
+
+
+![image](https://github.com/user-attachments/assets/10a7a630-d8c2-4acc-be80-7134e1f6e29c)
