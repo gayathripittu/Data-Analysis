@@ -1,4 +1,4 @@
-## Adventure Works Product Sales Analysis 2023
+## Customer Churn Analysis
 
 This project focuses on analyzing customer churn using Power BI. It provides insights into customer behavior, risk factors, and churn trends to aid decision-making and improve customer retention strategies. The analysis includes demographics, account details, subscription types, and usage patterns.
 
